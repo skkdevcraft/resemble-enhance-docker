@@ -56,4 +56,4 @@ This same documentation is also offered for the vast.ai template using this imag
 
 Please visit the repository of this docker image which also serves as the issue tracker for the image and the _vast.ai_ template [here](https://github.com/diraneyya/resemble-enhance-docker).
 
-The image is hosted on Docker hub at [orwa84/resemble-enhance](https://hub.docker.com/r/orwa84/resemble-enhance)
+The image is hosted on Docker hub at [orwa84/resemble-enhance](https://hub.docker.com/r/orwa84/resemble-enhance).
