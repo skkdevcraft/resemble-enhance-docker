@@ -10,5 +10,5 @@ WORKDIR /workspace
 RUN mkdir input
 RUN pip install resemble-enhance --upgrade
 
-ADD . .
-RUN chmod +x convert_audio.sh enhance.sh denoise.sh
+ADD ./scripts .
+RUN chmod +x convert_audio.sh enhance.sh denoise.sh replace_audio.sh
