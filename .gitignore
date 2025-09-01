@@ -1,4 +1,5 @@
 .DS_Store
 input
+output
 output_enhance
 output_denoise
